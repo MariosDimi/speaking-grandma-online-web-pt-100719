@@ -1,5 +1,7 @@
-def speak_to_grandma 
-
+def speak_to_grandma
+  if "I love you grandma".capitalize
+    puts "HUH?! SPEAK UP, SONNY"
+  elsif 
 
 
 
