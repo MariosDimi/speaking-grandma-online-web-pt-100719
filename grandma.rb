@@ -1,5 +1,5 @@
 def speak_to_grandma
-  if "I love you grandma".capitalize
+  if speak to grandma =="I love you grandma".capitalize
     puts "HUH?! SPEAK UP, SONNY"
   elsif "I LOVE YOU GRANDMA!".upcase
     puts "I LOVE YOU TOO PUMKIN!"
